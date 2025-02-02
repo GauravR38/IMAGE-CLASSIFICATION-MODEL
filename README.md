@@ -142,3 +142,4 @@ This project demonstrates how to build and train a **CNN model for image classif
 
 # OUTPUT
 
+![Image](https://github.com/user-attachments/assets/7b6b8488-da80-4e38-b554-9ad3bdb212ec)
